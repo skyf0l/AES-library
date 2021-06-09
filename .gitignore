@@ -1,3 +1,10 @@
+# Tests binaries
+unit_tests*
+
+# Tests objects
+*.gcda
+*.gcno
+
 # Prerequisites
 *.d
 
