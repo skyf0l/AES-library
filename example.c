@@ -5,6 +5,9 @@
 ** Example
 */
 
+// compilation
+// $ gcc -oexample -Iinclude example.c -L. -laes
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
